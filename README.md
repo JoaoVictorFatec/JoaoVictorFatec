@@ -2,7 +2,7 @@
 
 -> Bem vindo(a)!
 
-🚀 Desenvolvedor Web / Estudante de ADS
+🚀 Futuro Desenvolvedor Backend / Estudante de ADS
 
 -> Meu objetivo é tornar-me um desenvolvedor backend, e criei este repositórios para mostrar meus projetos e evoluções nos estudos de progamação!
 
